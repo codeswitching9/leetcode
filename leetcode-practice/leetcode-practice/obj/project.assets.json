@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\coding-and-programming-things\\leetcode\\leetcode\\leetcode-practice\\leetcode-practice\\leetcode-practice.csproj",
+      "projectUniqueName": "D:\\coding-and-programming-things\\leetcode\\leetcode-practice\\leetcode-practice\\leetcode-practice.csproj",
       "projectName": "leetcode-practice",
-      "projectPath": "D:\\coding-and-programming-things\\leetcode\\leetcode\\leetcode-practice\\leetcode-practice\\leetcode-practice.csproj",
+      "projectPath": "D:\\coding-and-programming-things\\leetcode\\leetcode-practice\\leetcode-practice\\leetcode-practice.csproj",
       "packagesPath": "C:\\Users\\labgf\\.nuget\\packages\\",
-      "outputPath": "D:\\coding-and-programming-things\\leetcode\\leetcode\\leetcode-practice\\leetcode-practice\\obj\\",
+      "outputPath": "D:\\coding-and-programming-things\\leetcode\\leetcode-practice\\leetcode-practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
